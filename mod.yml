@@ -41,30 +41,6 @@ assets:
   language: 
   isSwizzled: false
   index: 0
-- name: remastered\field2d\us\tt1command.2dd\US_tt1command_2dd0.png
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  multi: 
-  source:
-  - name: remastered\field2d\us\tt1command.2dd\US_tt1command_2dd0.png
-    method: 
-    platform: 
-    package: 
-    multi: 
-    source: 
-    required: false
-    type: 
-    motionsetType: Default
-    language: 
-    isSwizzled: false
-    index: 0
-  required: false
-  type: 
-  motionsetType: Default
-  language: 
-  isSwizzled: false
-  index: 0
 - name: remastered\field2d\us\zz0command.2dd\US_zz0command_2dd0.png
   method: copy
   platform: pc
